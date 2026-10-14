@@ -1,0 +1,12 @@
+{
+    "films" : [
+        {
+            "name": "test",
+            "year": 2010
+        },
+        {
+            "name": "test2",
+            "year": 2012
+        }
+    ]
+}
